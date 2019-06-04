@@ -37,9 +37,10 @@ public class Exec_06 {
 				System.out.println(intNum[index] + "는" + (index + 1) + "번째");
 				break;
 			}
-			if (index>= intNum.length) {
-				System.out.println("7은 없습니다");
+			
 			}
+		if (index >= intNum.length) {
+			System.out.println("7은 없습니다");
 		}
 
 	}
